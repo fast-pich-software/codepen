@@ -1,0 +1,13 @@
+/* img */
+
+.navigation-wrapper > .banner-image {
+	display: flex;
+	justify-content: space-between;
+	float: left;
+}
+
+
+.navigation-wrapper > .banner-image img {
+	width: 216px;
+	height: 100%;
+}

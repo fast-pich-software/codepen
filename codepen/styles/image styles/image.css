@@ -1,0 +1,10 @@
+/* Image Styles */
+
+.right img {
+	width: 600px;
+	height: 500px;
+	position: absolute;
+	top: 150px;
+	right: 0px;
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,8 @@
+/* top column styles*/
+.navigation-wrapper > .left-column > .top-column a {
+	color: #fed550;
+	text-decoration: none;
+	font-weight: 1;
+	display: flex;
+	justify-content: space-between;
+}

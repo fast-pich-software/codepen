@@ -1,0 +1,36 @@
+
+.dro {
+    background-color: #5c943c;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    top:500px;
+    left: 40px;
+    
+  }
+  
+  .dro a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+  .dr {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    top:500px;
+    left: 270px;
+  }
+  
+  .dr a {
+    color: white;
+    text-decoration: none;
+  }
+  
